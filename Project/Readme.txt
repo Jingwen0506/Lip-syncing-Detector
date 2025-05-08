@@ -1,6 +1,6 @@
 Lip-Sync Detection System
 
-By Zhixuan Chen
+By Zhixuan Chen, Jingwen Liu
 ------------------------------------------------
 Overview
 
